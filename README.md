@@ -60,18 +60,6 @@ I'm a passionate **Machine Learning Engineer** and **Data Scientist** who gradua
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiharP31&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhiisc&theme=nightowl&hide_border=false" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhiisc&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
